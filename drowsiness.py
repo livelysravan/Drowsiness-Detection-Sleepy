@@ -5,7 +5,7 @@ from pygame import mixer
 
 thres = 6
 mixer.init()
-sound = mixer.Sound('alarm.wav')
+sound = mixer.Sound('chippi.wav')
 dlist = []
 
 
